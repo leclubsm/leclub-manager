@@ -1,4 +1,4 @@
 streamlit
 pandas
-plotly
-fpdf
+gspread
+google-auth
