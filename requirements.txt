@@ -1,1 +1,4 @@
-streamlit pandas plotly fpdf
+streamlit
+pandas
+plotly
+fpdf
